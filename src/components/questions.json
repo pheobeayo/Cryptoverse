@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is a blockchain?",
+      "possibleAnswers": [
+        "A decentralized, distributed ledger",
+        "A type of cryptocurrency",
+        "A centralized database"
+      ],
+      "penalty": 10,
+      "reward": 20
+    },
+    {
+      "question": "What is a smart contract?",
+      "possibleAnswers": [
+        "Self-executing contracts with the terms directly written into code",
+        "Traditional paper contracts",
+        "Contracts with no terms"
+      ],
+      "penalty": 15,
+      "reward": 25
+    },
+    {
+      "question": "What is the role of miners in blockchain?",
+      "possibleAnswers": [
+        "Validating transactions and adding them to the blockchain",
+        "Creating new coins",
+        "Regulating the blockchain"
+      ],
+      "penalty": 12,
+      "reward": 22
+    },
+    {
+      "question": "What is a hash function in blockchain?",
+      "possibleAnswers": [
+        "A cryptographic function that converts input into a fixed-size string of bytes",
+        "A function that adds numbers",
+        "A function that multiplies numbers"
+      ],
+      "penalty": 13,
+      "reward": 23
+    }
+  ]
+}
